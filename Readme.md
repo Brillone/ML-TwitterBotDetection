@@ -4,15 +4,15 @@ Finally, we chose Random Forest Classifier for the task which gave us an test ac
 
 The class also took part in a kaggle competition (https://www.kaggle.com/c/twitter-bot-classification) in which various teams took part and our model secured the third position.
 
-To see the model in action, run the BotDetection.py file located in FinalCode directory with the following command:
+To see the model in action, run the **BotDetection.py** file located in FinalCode directory with the following command:
 
 **python BotDetection.py** *(Dependencies: Python 3, conda)*
 
-To understand the reasoning behind choosing features and the model, check the FinalProject.ipynb file in FinalCode directory.
+To understand the reasoning behind choosing features and the model, check the **FinalProject.ipynb** file in FinalCode directory.
 
-MIT License
+**MIT License**
 
-Copyright (c) 2017
+**Copyright (c) 2017**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
